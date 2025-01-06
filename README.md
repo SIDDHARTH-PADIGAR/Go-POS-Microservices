@@ -119,10 +119,4 @@ Contributions are welcome! Feel free to fork the repository, make enhancements, 
 
 This project is open source; no specific license has been applied.
 
----
 
-For more details, visit the [GitHub repository](https://github.com/SIDDHARTH-PADIGAR/Go-POS-Microservices).
-
-```
-
-Feel free to further customize this `README.md` to suit your project's needs! 
