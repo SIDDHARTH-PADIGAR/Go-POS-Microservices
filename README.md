@@ -1,4 +1,4 @@
-# go-pos-ms
+# POS Microservice
 
 A Point of Sale (POS) microservice system built using Go. This project provides an order management system with a simple POS-themed dark UI for listing and creating orders.
 
@@ -43,7 +43,7 @@ cd services/orders
 go run main.go
 ```
 
-Access the POS dashboard at `http://localhost:8080`.
+Access the POS dashboard at `http://localhost:1000`.
 
 ## API Endpoints
 - `POST /orders`: Create a new order.
